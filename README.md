@@ -7,7 +7,7 @@ Hi, I’m @Jerushax
 	Python 🐍
 
 	Java ☕
-
+	C/C++
 	HTML/CSS 
 
 	MySQL 🗄️
