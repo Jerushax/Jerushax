@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hi!+I'm+Jerusha)](https://git.io/typing-svg)
 
-
-🎓 I'm currently pursuing B.Tech in Computer Science and Engineering, specializing in Cyber Security.
+I'm currently pursuing B.Tech in Computer Science and Engineering, specializing in Cyber Security.
 
 👀 I'm deeply interested in:
 
